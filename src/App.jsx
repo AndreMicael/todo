@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import style from './App.module.css'
-import Todo from './components/Todo'
-import TodoForm from './components/TodoForm'
+import Todo from './components/Todo.jsx'
+import TodoForm from './components/TodoForm.jsx'
 
 const url = 'https://todo-jsonserver.vercel.app/tasks'
 
