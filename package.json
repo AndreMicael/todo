@@ -12,7 +12,7 @@
     "server": "json-server --watch https://todo-jsonserver.vercel.app/tasks"
   },
   "dependencies": {
-    "json-server": "^1.0.0-alpha.23",
+   
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
