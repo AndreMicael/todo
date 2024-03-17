@@ -1,0 +1,15 @@
+.todo_form {
+
+    padding-bottom: 1.5rem;
+}
+
+.todo_form input, .todo_form select {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+}
+
+
+

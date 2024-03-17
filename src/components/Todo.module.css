@@ -1,0 +1,40 @@
+
+
+.delete {
+    background-color: #d9534f;
+}
+.complete {
+    background-color: #5cb85c;
+}
+
+.todo {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+
+}
+
+.content {
+    display: grid !important;
+    grid-template-columns: 70% 25% ;  
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15px;
+ 
+}
+
+.buttons {
+    grid-row: span 2;
+}
+
+.buttons button {
+
+    margin-right: 10px;
+
+}
+
+
+
+
